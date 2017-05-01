@@ -1,0 +1,19 @@
+body {
+background-image:url("note.jpg");
+/*background-position: center;*/
+background-size: cover;
+width: 100%;
+
+}
+
+#listOfItems {
+    text-align: center;
+    margin-top: 170px;
+
+}
+
+p {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 20px;
+
+}
